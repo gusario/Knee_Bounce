@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{CB18D795-EBCC-B49F-63BC-5DBA7A429475}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/OpenTrigger.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Hero.cs" Line="34" Column="10" />
+      <File FileName="Assets/Scripts/CameraFolowing.cs" Line="13" Column="5" />
+      <File FileName="Assets/Scripts/miniBounce.cs" Line="23" Column="13" />
+      <File FileName="Assets/Scripts/PlatformRotate.cs" Line="14" Column="56" />
+      <File FileName="Assets/Scripts/FirstRoomFinish.cs" Line="22" Column="10" />
+      <File FileName="Assets/Scripts/Activation.cs" Line="18" Column="63" />
+      <File FileName="Assets/Scripts/LastRoomFinish.cs" Line="8" Column="5" />
+      <File FileName="Assets/Scripts/DeathTrigger.cs" Line="19" Column="107" />
+      <File FileName="Assets/Scripts/OpenTrigger.cs" Line="7" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
